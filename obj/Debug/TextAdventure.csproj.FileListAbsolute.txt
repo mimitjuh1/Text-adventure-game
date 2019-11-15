@@ -1,0 +1,12 @@
+c:\users\michelle\documents\visual studio 2015\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+c:\users\michelle\documents\visual studio 2015\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+c:\users\michelle\documents\visual studio 2015\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Documents\School\Programmeren\Periode 1\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+C:\Users\Michelle\Documents\School\Programmeren\Periode 1\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+C:\Users\Michelle\Documents\School\Programmeren\Periode 1\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
+C:\Users\Michelle\Documents\School\Programmeren\Periode 1\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+C:\Users\Michelle\Documents\School\Programmeren\Periode 1\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+C:\Users\Michelle\Documents\School\Programmeren\Periode 1\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
